@@ -1,2 +1,2 @@
-# TP_IA_Serpiente
-Aplicación para detectar una serpiente venenosa con sus caracterisitas mediante RNA.
+# TP_IA_CANGARO
+Reconocimiento de serpientes venenosas y no venenosas aplicando RNA
