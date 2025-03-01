@@ -30,7 +30,6 @@ print("Archivo CSV de patrones de entrenamiento creado.")
 
 
 
-
 ######## Script para generar csv de prueba
 
 import os
